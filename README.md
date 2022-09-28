@@ -4,11 +4,6 @@ Description
 
 *required skills - HTML - CSS - JS*
 
---Adobe XD For Devs--
-https://youtu.be/A-RcxjcmbB8
-
---Discord Invite--
-https://discord.gg/fj9CvCs
 
 =======================
 ===LV 1 REQUIREMENTS===
@@ -33,6 +28,3 @@ https://discord.gg/fj9CvCs
 
 Useful JS for this project
 https://www.w3schools.com/jsref/met_win_settimeout.asp
-
------
-Please report any errors/bugs to selftdev@gmail.com
