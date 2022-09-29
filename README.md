@@ -1,8 +1,5 @@
-#SelfTaughtDev - https://selftaught-dev.com/
+A Project idea from  #SelfTaughtDev - https://selftaught-dev.com/
 
-Description
-
-*required skills - HTML - CSS - JS*
 
 
 =======================
